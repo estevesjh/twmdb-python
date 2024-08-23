@@ -3,6 +3,8 @@ The Twilight Monitor database is a Python class that reads a CSV file containing
 
 ## Data Structure
 The database will be rooted in a twmdb-python folder with the following file tree.
+
+```
 .
 ├── README.txt
 ├── twmdb.py
@@ -12,7 +14,7 @@ The database will be rooted in a twmdb-python folder with the following file tre
     │   ├── notes.txt
     │   └── tmp
     │       └── seq_id_XXXXX.csv
-
+```
 
 ## Database CSV file information
 The twilight monitor database should have the following fields
