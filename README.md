@@ -20,7 +20,7 @@ from twilight_monitor import TwilightMonitorDatabase
 
 # Initialize the database for July 21, 2024
 db = TwilightMonitorDatabase(21, 7, 2024)
-"""
+```
 
 #### Add a new exposure
 To add a exposure you can simply enter the following information.
