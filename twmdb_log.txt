@@ -1,0 +1,382 @@
+INFO:root:Initializing TwilightMonitorDatabase for 20240820
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202408, /home/estevesjh/Documents/github/twmdb-python/DATA/202408/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202408
+INFO:root:Created new database for 20240820
+INFO:root:Added exposure 1 at 2024-08-23 21:12:31.173917
+INFO:root:Database saved for 20240820
+WARNING:root:seq_id 1 not found in the database.
+INFO:root:Initializing TwilightMonitorDatabase for 20240820
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202408, /home/estevesjh/Documents/github/twmdb-python/DATA/202408/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202408
+INFO:root:Created new database for 20240820
+INFO:root:Added exposure 1 at 2024-08-23 21:14:27.981055
+INFO:root:Database saved for 20240820
+INFO:root:Updated current_mean for seq_id 1 to 0.55
+INFO:root:Updated current_std for seq_id 1 to 0.02
+INFO:root:Database saved for 20240820
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Created new database for 20240720
+INFO:root:Added exposure 1 at 2024-08-23 21:14:55.291216
+INFO:root:Database saved for 20240720
+INFO:root:Updated current_mean for seq_id 1 to 0.55
+INFO:root:Updated current_std for seq_id 1 to 0.02
+INFO:root:Database saved for 20240720
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Loaded existing database for 20240720
+INFO:root:Added exposure 2 at 2024-08-23 21:17:11.618595
+INFO:root:Database saved for 20240720
+INFO:root:Updated current_mean for seq_id 1 to 0.55
+INFO:root:Updated current_std for seq_id 1 to 0.02
+INFO:root:Database saved for 20240720
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Created new database for 20240720
+INFO:root:Added exposure 1 at 2024-08-23 21:17:54.503824
+INFO:root:Database saved for 20240720
+INFO:root:Updated current_mean for seq_id 1 to 0.55
+INFO:root:Updated current_std for seq_id 1 to 0.02
+INFO:root:Database saved for 20240720
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Loaded existing database for 20240720
+INFO:root:Added exposure 2 at 2024-08-23 21:17:56.846065
+INFO:root:Database saved for 20240720
+INFO:root:Updated current_mean for seq_id 1 to 0.55
+INFO:root:Updated current_std for seq_id 1 to 0.02
+INFO:root:Database saved for 20240720
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Created new database for 20240720
+INFO:root:Added exposure 1 at 2024-08-23 21:19:00.013412
+INFO:root:Database saved for 20240720
+INFO:root:Updated current_mean for seq_id 1 to 0.55
+INFO:root:Updated current_std for seq_id 1 to 0.02
+INFO:root:Database saved for 20240720
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Loaded existing database for 20240720
+INFO:root:Added exposure 2 at 2024-08-23 21:19:27.903395
+INFO:root:Database saved for 20240720
+INFO:root:Updated current_mean for seq_id 1 to 0.1
+INFO:root:Updated current_std for seq_id 1 to 0.1
+INFO:root:Database saved for 20240720
+INFO:root:Database saved for 20240720
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Loaded existing database for 20240720
+INFO:root:Added exposure 3 at 2024-08-23 21:20:58.152249
+INFO:root:Database saved for 20240720
+INFO:root:Updated current_mean for seq_id 3 to 0.1
+INFO:root:Updated current_std for seq_id 3 to 0.1
+INFO:root:Database saved for 20240720
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Created new database for 20240720
+INFO:root:Added exposure 1 at 2024-08-23 21:22:45.005599
+INFO:root:Database saved for 20240720
+INFO:root:Updated current_mean for seq_id 1 to 0.1
+INFO:root:Updated current_std for seq_id 1 to 0.1
+INFO:root:Database saved for 20240720
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Loaded existing database for 20240720
+INFO:root:Added exposure 3 at 2024-08-23 21:27:13.230596
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Created new database for 20240720
+INFO:root:Added exposure 1 at 2024-08-23 21:28:30.360502
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Created new database for 20240720
+INFO:root:Added exposure 1 at 2024-08-23 21:29:53.208429
+INFO:root:Database saved for 20240720
+INFO:root:Updated current_mean for seq_id 1 to 0.55
+INFO:root:Updated current_std for seq_id 1 to 0.02
+INFO:root:Database saved for 20240720
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Loaded existing database for 20240720
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Loaded existing database for 20240720
+INFO:root:Set seq_id to 1
+INFO:root:Set seq_id to 2
+INFO:root:Added exposure 2 at 2024-08-23 21:35:49.222842
+INFO:root:Initializing TwilightMonitorDatabase for 20240721
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Created new database for 20240721
+INFO:root:Set seq_id to 0
+INFO:root:Set seq_id to 1
+INFO:root:Added exposure 1 at 2024-08-23 21:36:04.946023
+INFO:root:Initializing TwilightMonitorDatabase for 20240721
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Loaded existing database for 20240721
+INFO:root:Set seq_id to 1
+INFO:root:Set seq_id to 2
+INFO:root:Added exposure 2 at 2024-08-23 21:37:32.431862
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Loaded existing database for 20240720
+INFO:root:Added exposure 3.0 at 2024-08-23 21:40:00.736890
+INFO:root:Database saved for 20240720
+INFO:root:Updated current_mean for seq_id 3.0 to 0.1
+INFO:root:Updated current_std for seq_id 3.0 to 0.1
+INFO:root:Database saved for 20240720
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Loaded existing database for 20240720
+INFO:root:Added exposure 5 at 2024-08-23 21:40:49.181462
+INFO:root:Database saved for 20240720
+INFO:root:Updated current_mean for seq_id 5 to 0.1
+INFO:root:Updated current_std for seq_id 5 to 0.1
+INFO:root:Database saved for 20240720
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Created new database for 20240720
+INFO:root:Added exposure 1 at 2024-08-23 21:41:53.536254
+INFO:root:Database saved for 20240720
+INFO:root:Updated current_mean for seq_id 1 to 0.1
+INFO:root:Updated current_std for seq_id 1 to 0.1
+INFO:root:Database saved for 20240720
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Loaded existing database for 20240720
+INFO:root:Added exposure 3 at 2024-08-23 21:41:54.734786
+INFO:root:Database saved for 20240720
+INFO:root:Updated current_mean for seq_id 3 to 0.1
+INFO:root:Updated current_std for seq_id 3 to 0.1
+INFO:root:Database saved for 20240720
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Loaded existing database for 20240720
+INFO:root:Added exposure 5 at 2024-08-23 21:41:55.442798
+INFO:root:Database saved for 20240720
+INFO:root:Updated current_mean for seq_id 5 to 0.1
+INFO:root:Updated current_std for seq_id 5 to 0.1
+INFO:root:Database saved for 20240720
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Loaded existing database for 20240720
+INFO:root:Added exposure 6 at 2024-08-23 21:42:55.677212
+INFO:root:Database saved for 20240720
+INFO:root:Updated current_mean for seq_id 6 to 0.1
+INFO:root:Updated current_std for seq_id 6 to 0.1
+INFO:root:Database saved for 20240720
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Created new database for 20240720
+INFO:root:Added exposure 0 at 2024-08-23 21:43:07.850515
+INFO:root:Database saved for 20240720
+INFO:root:Updated current_mean for seq_id 0 to 0.1
+INFO:root:Updated current_std for seq_id 0 to 0.1
+INFO:root:Database saved for 20240720
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Loaded existing database for 20240720
+INFO:root:Added exposure 1 at 2024-08-23 21:43:08.716696
+INFO:root:Database saved for 20240720
+INFO:root:Updated current_mean for seq_id 1 to 0.1
+INFO:root:Updated current_std for seq_id 1 to 0.1
+INFO:root:Database saved for 20240720
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Loaded existing database for 20240720
+INFO:root:Added exposure 2 at 2024-08-23 21:43:09.198279
+INFO:root:Database saved for 20240720
+INFO:root:Updated current_mean for seq_id 2 to 0.1
+INFO:root:Updated current_std for seq_id 2 to 0.1
+INFO:root:Database saved for 20240720
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Created new database for 20240720
+INFO:root:Added exposure 0 at 2024-08-23 21:44:08.240506
+INFO:root:Database saved for 20240720
+INFO:root:Updated current_mean for seq_id 0 to 0.1
+INFO:root:Updated current_std for seq_id 0 to 0.1
+INFO:root:Database saved for 20240720
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Loaded existing database for 20240720
+INFO:root:Added exposure 1 at 2024-08-23 21:44:08.679676
+INFO:root:Database saved for 20240720
+INFO:root:Updated current_mean for seq_id 1 to 0.1
+INFO:root:Updated current_std for seq_id 1 to 0.1
+INFO:root:Database saved for 20240720
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Loaded existing database for 20240720
+INFO:root:Added exposure 2 at 2024-08-23 21:44:09.084416
+INFO:root:Database saved for 20240720
+INFO:root:Updated current_mean for seq_id 2 to 0.1
+INFO:root:Updated current_std for seq_id 2 to 0.1
+INFO:root:Database saved for 20240720
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Created new database for 20240720
+INFO:root:Added exposure 0 at 2024-08-23 21:44:51.465372
+INFO:root:Database saved for 20240720
+INFO:root:Updated current_mean for seq_id 0 to 0.1
+INFO:root:Updated current_std for seq_id 0 to 0.1
+INFO:root:Database saved for 20240720
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Loaded existing database for 20240720
+INFO:root:Added exposure 1 at 2024-08-23 21:44:51.925174
+INFO:root:Database saved for 20240720
+INFO:root:Updated current_mean for seq_id 1 to 0.1
+INFO:root:Updated current_std for seq_id 1 to 0.1
+INFO:root:Database saved for 20240720
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Loaded existing database for 20240720
+INFO:root:Added exposure 2 at 2024-08-23 21:44:52.330316
+INFO:root:Database saved for 20240720
+INFO:root:Updated current_mean for seq_id 2 to 0.1
+INFO:root:Updated current_std for seq_id 2 to 0.1
+INFO:root:Database saved for 20240720
+INFO:root:Initializing TwilightMonitorDatabase for 20240720
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202407, /home/estevesjh/Documents/github/twmdb-python/DATA/202407/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202407
+INFO:root:Loaded existing database for 20240720
+INFO:root:Added exposure 3 at 2024-08-23 21:45:51.861355
+INFO:root:Database saved for 20240720
+INFO:root:Updated current_mean for seq_id 3 to 0.1
+INFO:root:Updated current_std for seq_id 3 to 0.1
+INFO:root:Database saved for 20240720
+INFO:root:Initializing TwilightMonitorDatabase for 20240820
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202408, /home/estevesjh/Documents/github/twmdb-python/DATA/202408/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202408
+INFO:root:Created new database for 20240820
+INFO:root:Added exposure 0 at 2024-08-23 21:47:28.025190
+INFO:root:Database saved for 20240820
+INFO:root:Updated current_mean for seq_id 0 to 0.1
+INFO:root:Updated current_std for seq_id 0 to 0.1
+INFO:root:Database saved for 20240820
+INFO:root:Initializing TwilightMonitorDatabase for 20240820
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202408, /home/estevesjh/Documents/github/twmdb-python/DATA/202408/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202408
+INFO:root:Loaded existing database for 20240820
+INFO:root:Added exposure 1 at 2024-08-23 21:47:29.218138
+INFO:root:Database saved for 20240820
+INFO:root:Updated current_mean for seq_id 1 to 0.1
+INFO:root:Updated current_std for seq_id 1 to 0.1
+INFO:root:Database saved for 20240820
+INFO:root:Initializing TwilightMonitorDatabase for 20240820
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202408, /home/estevesjh/Documents/github/twmdb-python/DATA/202408/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202408
+INFO:root:Loaded existing database for 20240820
+INFO:root:Added exposure 2 at 2024-08-23 21:47:30.653596
+INFO:root:Database saved for 20240820
+INFO:root:Updated current_mean for seq_id 2 to 0.1
+INFO:root:Updated current_std for seq_id 2 to 0.1
+INFO:root:Database saved for 20240820
+INFO:root:Initializing TwilightMonitorDatabase for 20240820
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202408, /home/estevesjh/Documents/github/twmdb-python/DATA/202408/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202408
+INFO:root:Loaded existing database for 20240820
+INFO:root:Added exposure 3 at 2024-08-23 21:53:17.504125
+INFO:root:Updated current_mean for seq_id 3 to 0.1
+INFO:root:Updated current_std for seq_id 3 to 0.1
+INFO:root:Database saved for 20240820
+INFO:root:Initializing TwilightMonitorDatabase for 20240820
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202408, /home/estevesjh/Documents/github/twmdb-python/DATA/202408/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202408
+INFO:root:Loaded existing database for 20240820
+INFO:root:Added exposure 4 at 2024-08-23 21:53:31.871504
+INFO:root:Updated current_mean for seq_id 4 to 0.1
+INFO:root:Updated current_std for seq_id 4 to 0.1
+INFO:root:Database saved for 20240820
+INFO:root:Initializing TwilightMonitorDatabase for 20240820
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202408, /home/estevesjh/Documents/github/twmdb-python/DATA/202408/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202408
+INFO:root:Loaded existing database for 20240820
+INFO:root:Added exposure 5 at 2024-08-23 21:53:37.698002
+INFO:root:Updated current_mean for seq_id 5 to 0.1
+INFO:root:Updated current_std for seq_id 5 to 0.1
+INFO:root:Database saved for 20240820
+INFO:root:Initializing TwilightMonitorDatabase for 20240821
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202408, /home/estevesjh/Documents/github/twmdb-python/DATA/202408/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202408
+INFO:root:Created new database for 20240821
+INFO:root:Added exposure 0 at 2024-08-23 21:58:00.734598
+INFO:root:Updated current_mean for seq_id 0 to 0.1
+INFO:root:Updated current_std for seq_id 0 to 0.1
+INFO:root:Database saved for 20240821
+INFO:root:Closing database for 20240821
+INFO:root:Initializing TwilightMonitorDatabase for 20240821
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202408, /home/estevesjh/Documents/github/twmdb-python/DATA/202408/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202408
+INFO:root:Loaded existing database for 20240821
+INFO:root:Added exposure 1 at 2024-08-23 21:58:00.744054
+INFO:root:Database saved for 20240821
+INFO:root:Initializing TwilightMonitorDatabase for 20240821
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202408, /home/estevesjh/Documents/github/twmdb-python/DATA/202408/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202408
+INFO:root:Loaded existing database for 20240821
+INFO:root:Added exposure 2 at 2024-08-23 21:58:24.961083
+INFO:root:Updated current_mean for seq_id 2 to 0.1
+INFO:root:Updated current_std for seq_id 2 to 0.1
+INFO:root:Database saved for 20240821
+INFO:root:Closing database for 20240821
+INFO:root:Initializing TwilightMonitorDatabase for 20240821
+INFO:root:Initialized paths for: /home/estevesjh/Documents/github/twmdb-python/DATA/202408, /home/estevesjh/Documents/github/twmdb-python/DATA/202408/tmp
+INFO:root:Initialized paths for electrometer path: /home/estevesjh/Documents/keysighB2987A/202408
+INFO:root:Loaded existing database for 20240821
+INFO:root:Added exposure 3 at 2024-08-23 21:58:24.977604
+INFO:root:Database saved for 20240821

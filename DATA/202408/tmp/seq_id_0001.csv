@@ -1,0 +1,2 @@
+tmid,date,seq_id,exp_time_cmd,exp_time,filter,Alt,Az,current_mean,current_std,alt_std,az_std,electrometer_filename,flag
+20240823215800,2024-08-23 21:58:00.744054,1,30,0,SDSSr,45.0,90.0,,,,,/home/estevesjh/Documents/keysighB2987A/202408/20240821_1.npy,False
